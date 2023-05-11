@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SimpleBrokeredMessaging.Receiver
+build_property.ProjectDir = C:\WS\jeny3g\azure-service-bus-demo\SimpleBrokeredMessaging.Receiver\

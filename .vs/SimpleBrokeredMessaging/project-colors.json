@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13bacd95-25a2-46a0-9955-50283f4fc879": {
+      "ProjectGuid": "13bacd95-25a2-46a0-9955-50283f4fc879",
+      "DisplayName": "SimpleBrokeredMessaging.ChatConsole",
+      "ColorIndex": 0
+    },
+    "feea1e3c-dac5-459f-a53a-2f8aa2d7e913": {
+      "ProjectGuid": "feea1e3c-dac5-459f-a53a-2f8aa2d7e913",
+      "DisplayName": "SimpleBrokeredMessaging.Sender",
+      "ColorIndex": 1
+    },
+    "6b769536-1096-4262-89eb-eccb4205e105": {
+      "ProjectGuid": "6b769536-1096-4262-89eb-eccb4205e105",
+      "DisplayName": "SimpleBrokeredMessaging.Receiver",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
